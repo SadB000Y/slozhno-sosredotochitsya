@@ -11,9 +11,9 @@
   --text-color: #353430;
   --decoration-color: var(--text-color);
   --background-color: #fff1f7;
-  --header1-color: #ffc2e6;
-  --header2-color: var(--text-color);
-  --header3-color: var(--text-color);
+  --title-color: #ffc2e6;
+  --focus-title: var(--text-color);
+  --decor-title: var(--text-color);
   --is-light: hidden;
 }
 
@@ -25,9 +25,9 @@
     --text-color: #353430;
     --decoration-color: var(--text-color);
     --background-color: #fff1f7;
-    --header1-color: #ffc2e6;
-    --header2-color: var(--text-color);
-    --header3-color: var(--text-color);
+    --title-color: #ffc2e6;
+    --focus-title: var(--text-color);
+    --decor-title: var(--text-color);
     --is-light: hidden;
     }
 }
